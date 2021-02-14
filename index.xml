@@ -1,31 +1,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengjian&#39;s Blog</title>
-    <link>https://Zhengjian-L.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Zhengjian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Sat, 13 Feb 2021 18:07:54 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 14 Feb 2021 14:39:37 +0800</lastBuildDate>
     
-        <atom:link href="https://Zhengjian-L.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     
         <item>
-        <title>Putting A Price Tag on Life</title>
-        <link>https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/</link>
+        <title>Note|Free to Choose</title>
+        <link>http://example.org/posts/justice/5-free-to-choose/</link>
+        <pubDate>Sun, 14 Feb 2021 14:39:37 +0800</pubDate>
+        
+        <guid>http://example.org/posts/justice/5-free-to-choose/</guid>
+        <description>Zhengjian&#39;s Blog http://example.org/posts/justice/5-free-to-choose/ -&lt;h1 id=&#34;challenge-to-j-s-mills-utilitarianism&#34;&gt;Challenge to J. S. Mill&amp;rsquo;s Utilitarianism&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Why is justice the chief part and the most binding part of our morality?&lt;/li&gt;
+&lt;li&gt;Is it the only reason to respect other people&amp;rsquo;s rights that respecting people&amp;rsquo;s rights is a way of making everybody better off in the long run?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;libertarianism&#34;&gt;Libertarianism&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;The fundamental idea:&lt;/strong&gt; Individuals matter not just as instruments to be used for a larger social purpose or for the sake of maximizing utility, individuals are separate beings with separate lives worthy of respect. We&amp;rsquo;re not available to any use that the society might desire or devise precisely because we are individual separate human beings. We have a fundamental right to liberty, and that means a right to choose freely, to live our lives as we please provided we respect other people&amp;rsquo;s rights to do the same.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Individuals have rights, and there are things no person or group may do to them (without violating their rights).&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;Robert Nozick&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;the-libertarian-view-of-government&#34;&gt;The Libertarian View of Government&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;No paternalist Legislation.&lt;/p&gt;
+&lt;p&gt;Laws that protect people from themselves, like seatbelt laws, should not exist. The libertarian thinks what people do should be up to them and it is coercion to forbid their behaviours by laws.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No Morals Legislation&lt;/p&gt;
+&lt;p&gt;Many laws try to promote the virtue of citizens or try to give expression to the moral values of the society as a whole. Libertarian say that&amp;rsquo;s also a violation of the right to liberty.
+Example: Laws that prevent sexual intimacy between gays and lesbians should not be passed, because nobody else is harmed and nobody&amp;rsquo;s rights are violated, so the government should entirely get out of this business.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No Redistribution of Income from Rich to Poor&lt;/p&gt;
+&lt;p&gt;The libertarian think redistribution is a kind of coercion. What it amounts to is theft by the state or by the majority, if we&amp;rsquo;re talking about a
+democracy, from people who happen to do very well and earn a lot of money.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;nozicks-argument-against-taxation&#34;&gt;Nozick&amp;rsquo;s Argument Against Taxation&lt;/h2&gt;
+&lt;p&gt;Taxation = taking of earnings&lt;/p&gt;
+&lt;p&gt;Taking of earnings = forced labour&lt;/p&gt;
+&lt;p&gt;Forced Labour = slavery&lt;/p&gt;
+&lt;p&gt;Violates Principle of Self Possession&lt;/p&gt;
+- http://example.org/posts/justice/5-free-to-choose/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Note|How to Measure Pleasure</title>
+        <link>http://example.org/posts/justice/4-how-to-measure-pleasure/</link>
+        <pubDate>Sun, 14 Feb 2021 14:38:44 +0800</pubDate>
+        
+        <guid>http://example.org/posts/justice/4-how-to-measure-pleasure/</guid>
+        <description>Zhengjian&#39;s Blog http://example.org/posts/justice/4-how-to-measure-pleasure/ -&lt;h1 id=&#34;objections-to-utilitarianism&#34;&gt;Objections to Utilitarianism&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Fails to respect individual rights&lt;/li&gt;
+&lt;li&gt;Not possible to aggregate all values and preferences
+&lt;ul&gt;
+&lt;li&gt;Using a single measure like $$&lt;/li&gt;
+&lt;li&gt;Isn&amp;rsquo;t there a distinction between  higher and lower pleasure?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The quantity of pleasure being equal, pushpin is as good as poetry.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;Jeremy Bentham&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Is it right to refuse to make qualitative distinctions? Can we dispense with the idea that certain things we take pleasure in are better or worthier than others?&lt;/p&gt;
+&lt;h1 id=&#34;j-s-mills-utilitarianism&#34;&gt;J. S. Mill&amp;rsquo;s Utilitarianism&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stuart_Mill_G_F_Watts.jpg/300px-Stuart_Mill_G_F_Watts.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;John Stuart Mill&lt;/strong&gt; (20 May 1806 – 7 May 1873), usually cited as J. S. Mill, was an English philosopher, political economist, Member of Parliament, and civil servant.  He was a proponent of utilitarianism, an ethical theory developed by his predecessor Jeremy Bentham.&lt;/p&gt;
+&lt;h2 id=&#34;mills-modification&#34;&gt;Mill&amp;rsquo;s Modification&lt;/h2&gt;
+&lt;p&gt;J. S. Mill tried to humanize utilitarianism. He tried to see whether the utilitarian calculus could be enlarged and modified to accommodate humanitarian concerns, like &lt;strong&gt;the concern to respect individual rights&lt;/strong&gt; and &lt;strong&gt;to address the distinction between higher and lower pleasures&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;higher-and-lower-pleasures&#34;&gt;Higher and Lower Pleasures&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Higher and lower pleasures are distinct.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Of two pleasures, if there be one to which all or almost all who have experience of both give a decided preference, irrespective of any feeling of moral obligation to prefer it, then that is the more desirable pleasure.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;John Stuart Mill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Higher pleasures require cultivation, appreciation, and education.&lt;/li&gt;
+&lt;li&gt;Once people are cultivated, they prefer the higher pleasures.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;It is better to be a human being dissatisfied than a pig satisfied. Better to be Socrates dissatisfied than a fool satisfied. And if the fool or the pig are of a different opinion, it is because they only know their side of the question.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;John Stuart Mill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;about-individual-rights&#34;&gt;About Individual Rights&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;While I dispute the pretensions of any theory which sets up an imaginary standard of justice not grounded on utility, I account the justice which is grounded in utility to be the chief part, and incomparably the most sacred and binding part, of all morality&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;John Stuart Mill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Justice is a name, for certain moral requirements, which, regarded collectively, stand higher in the scale of social utility and are, therefore, of more paramount obligation than any others.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&amp;ndash;John Stuart Mill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Justice is not something that can easily be traded off against lesser things. But the reason in it is ultimately a utilitarian reason. Once you consider the long-run interests of humankind, of all of us as progressive beings. If we do justice and if we respect rights, &lt;strong&gt;society as a whole will be better off in the long run&lt;/strong&gt;.&lt;/p&gt;
+- http://example.org/posts/justice/4-how-to-measure-pleasure/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>Note|Putting A Price Tag on Life</title>
+        <link>http://example.org/posts/justice/3-putting-a-price-tag-on-life/</link>
         <pubDate>Sat, 13 Feb 2021 18:07:54 +0800</pubDate>
         
-        <guid>https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/</guid>
-        <description>Zhengjian&#39;s Blog https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/ -&lt;h1 id=&#34;phillip-morris-study&#34;&gt;Phillip Morris Study&lt;/h1&gt;
+        <guid>http://example.org/posts/justice/3-putting-a-price-tag-on-life/</guid>
+        <description>Zhengjian&#39;s Blog http://example.org/posts/justice/3-putting-a-price-tag-on-life/ -&lt;h1 id=&#34;phillip-morris-study&#34;&gt;Phillip Morris Study&lt;/h1&gt;
 &lt;p&gt;(Cost/Benefit Analysis Smoking)&lt;/p&gt;
 &lt;p&gt;Philip Morris, the tobacco company, does huge business in the Czech Republic. They commissioned a cost-benefit analysis of smoking in the Czech Republic and found that the government allowing smoking could save money over the cost.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Zhengjian-L.github.io/images/phillip_morris_study.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/images/phillip_morris_study.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;the-ford-pinto-case&#34;&gt;The Ford Pinto Case&lt;/h1&gt;
 &lt;p&gt;It was in the 1970s. The Ford Pinto, a kind of car, had a problem, which is that the fuel tank was at the back of the car and in rear collisions, the fuel tank exploded and some people were killed and some severely injured. Victims of these injuries took Ford to court to sue.&lt;/p&gt;
 &lt;p&gt;In the court case, they found that Ford had long since known about the problem and had done a cost-benefit analysis to determine whether it would be worth it to put in a special shield that would protect the fuel tank  and prevent it from exploding.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Zhengjian-L.github.io/images/repairing_the_ford_pinto.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/images/repairing_the_ford_pinto.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;discussion&#34;&gt;Discussion&lt;/h1&gt;
 &lt;h2 id=&#34;proposition-to-utilitarianism&#34;&gt;Proposition to utilitarianism&lt;/h2&gt;
 &lt;ul&gt;
@@ -38,27 +139,27 @@
 &lt;li&gt;It failed to take account things on suffering and emotional losses of the victims&#39; families.&lt;/li&gt;
 &lt;li&gt;It does not consider the effect on the minority.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://Zhengjian-L.github.io/images/Objections_to_utilitarianism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/images/Objections_to_utilitarianism.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;thorndikes-study&#34;&gt;Thorndike&amp;rsquo;s Study&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;It is possible to aggregate all values to translate them into dollar terms?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In the 1930s, Thorndike tried to prove what utilitarianism assumes, that it is possible to translate all goods, all values, into a single uniform measure, and he conducted a survey of young recipients of relief. He gave them a list of unpleasant experiences and asked them,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;How much would you have to be paid to undergo the following experiences?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://Zhengjian-L.github.io/images/thorndike.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://example.org/images/thorndike.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The conclusion of the study:&lt;/strong&gt; Any want or a satisfaction which exists in some amount and is therefore measurable.&lt;/p&gt;
-- https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/ - This is a customized copyright.</description>
+- http://example.org/posts/justice/3-putting-a-price-tag-on-life/ - This is a customized copyright.</description>
         </item>
     
     
     
         <item>
-        <title>The Case of Cannibalism</title>
-        <link>https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/</link>
+        <title>Note|The Case of Cannibalism</title>
+        <link>http://example.org/posts/justice/2-the-case-of-cannibalism/</link>
         <pubDate>Sat, 13 Feb 2021 09:20:15 +0800</pubDate>
         
-        <guid>https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/</guid>
-        <description>Zhengjian&#39;s Blog https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/ -&lt;h1 id=&#34;the-benthamite-utilitarianism&#34;&gt;The Benthamite Utilitarianism&lt;/h1&gt;
+        <guid>http://example.org/posts/justice/2-the-case-of-cannibalism/</guid>
+        <description>Zhengjian&#39;s Blog http://example.org/posts/justice/2-the-case-of-cannibalism/ -&lt;h1 id=&#34;the-benthamite-utilitarianism&#34;&gt;The Benthamite Utilitarianism&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.&amp;rdquo;
 &amp;ndash; Jeremy Bentham&lt;/p&gt;
@@ -101,18 +202,18 @@
 &lt;li&gt;Does a fair procedure justify any result?&lt;/li&gt;
 &lt;li&gt;What is the moral work of consent?&lt;/li&gt;
 &lt;/ol&gt;
-- https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/ - This is a customized copyright.</description>
+- http://example.org/posts/justice/2-the-case-of-cannibalism/ - This is a customized copyright.</description>
         </item>
     
     
     
         <item>
-        <title>The Moral Side of Murder</title>
-        <link>https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/</link>
+        <title>Note|The Moral Side of Murder</title>
+        <link>http://example.org/posts/justice/1-the-moral-side-of-murder/</link>
         <pubDate>Fri, 12 Feb 2021 11:25:05 +0800</pubDate>
         
-        <guid>https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/</guid>
-        <description>Zhengjian&#39;s Blog https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/ -&lt;h1 id=&#34;trolley-problem&#34;&gt;Trolley Problem&lt;/h1&gt;
+        <guid>http://example.org/posts/justice/1-the-moral-side-of-murder/</guid>
+        <description>Zhengjian&#39;s Blog http://example.org/posts/justice/1-the-moral-side-of-murder/ -&lt;h1 id=&#34;trolley-problem&#34;&gt;Trolley Problem&lt;/h1&gt;
 &lt;p&gt;The &lt;em&gt;trolley problem&lt;/em&gt; is a thought experiment in ethics about a fictional scenario in which an onlooker has the choice to save 5 people in danger of being hit by a trolley, by diverting the trolley to kill just 1 person.&lt;/p&gt;
 &lt;p&gt;What would you choose, to divert it or not?&lt;/p&gt;
 &lt;h1 id=&#34;moral-reasoning&#34;&gt;Moral Reasoning&lt;/h1&gt;
@@ -129,7 +230,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Categorical locates morality in certain duties and rights. The most important philosopher of categorical moral reasoning German philosopher &lt;strong&gt;Immanuel Kant&lt;/strong&gt;(康德).&lt;/p&gt;
-- https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/ - This is a customized copyright.</description>
+- http://example.org/posts/justice/1-the-moral-side-of-murder/ - This is a customized copyright.</description>
         </item>
     
     

@@ -2,29 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justice on Zhengjian&#39;s Blog</title>
-    <link>https://Zhengjian-L.github.io/tags/justice/</link>
+    <link>http://example.org/tags/justice/</link>
     <description>Recent content in Justice on Zhengjian&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Sat, 13 Feb 2021 18:07:54 +0800</lastBuildDate><atom:link href="https://Zhengjian-L.github.io/tags/justice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 14:39:37 +0800</lastBuildDate><atom:link href="http://example.org/tags/justice/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Putting A Price Tag on Life</title>
-      <link>https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/</link>
+      <title>Note|Free to Choose</title>
+      <link>http://example.org/posts/justice/5-free-to-choose/</link>
+      <pubDate>Sun, 14 Feb 2021 14:39:37 +0800</pubDate>
+      
+      <guid>http://example.org/posts/justice/5-free-to-choose/</guid>
+      <description>Challenge to J. S. Mill&amp;rsquo;s Utilitarianism  Why is justice the chief part and the most binding part of our morality? Is it the only reason to respect other people&amp;rsquo;s rights that respecting people&amp;rsquo;s rights is a way of making everybody better off in the long run?  Libertarianism The fundamental idea: Individuals matter not just as instruments to be used for a larger social purpose or for the sake of maximizing utility, individuals are separate beings with separate lives worthy of respect.</description>
+    </item>
+    
+    <item>
+      <title>Note|How to Measure Pleasure</title>
+      <link>http://example.org/posts/justice/4-how-to-measure-pleasure/</link>
+      <pubDate>Sun, 14 Feb 2021 14:38:44 +0800</pubDate>
+      
+      <guid>http://example.org/posts/justice/4-how-to-measure-pleasure/</guid>
+      <description>Objections to Utilitarianism  Fails to respect individual rights Not possible to aggregate all values and preferences  Using a single measure like $$ Isn&amp;rsquo;t there a distinction between higher and lower pleasure?     &amp;ldquo;The quantity of pleasure being equal, pushpin is as good as poetry.&amp;rdquo;
+&amp;ndash;Jeremy Bentham
+ Is it right to refuse to make qualitative distinctions? Can we dispense with the idea that certain things we take pleasure in are better or worthier than others?</description>
+    </item>
+    
+    <item>
+      <title>Note|Putting A Price Tag on Life</title>
+      <link>http://example.org/posts/justice/3-putting-a-price-tag-on-life/</link>
       <pubDate>Sat, 13 Feb 2021 18:07:54 +0800</pubDate>
       
-      <guid>https://Zhengjian-L.github.io/posts/justice/3-putting-a-price-tag-on-life/</guid>
+      <guid>http://example.org/posts/justice/3-putting-a-price-tag-on-life/</guid>
       <description>Phillip Morris Study (Cost/Benefit Analysis Smoking)
 Philip Morris, the tobacco company, does huge business in the Czech Republic. They commissioned a cost-benefit analysis of smoking in the Czech Republic and found that the government allowing smoking could save money over the cost.
 The Ford Pinto Case It was in the 1970s. The Ford Pinto, a kind of car, had a problem, which is that the fuel tank was at the back of the car and in rear collisions, the fuel tank exploded and some people were killed and some severely injured.</description>
     </item>
     
     <item>
-      <title>The Case of Cannibalism</title>
-      <link>https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/</link>
+      <title>Note|The Case of Cannibalism</title>
+      <link>http://example.org/posts/justice/2-the-case-of-cannibalism/</link>
       <pubDate>Sat, 13 Feb 2021 09:20:15 +0800</pubDate>
       
-      <guid>https://Zhengjian-L.github.io/posts/justice/2-the-case-of-cannibalism/</guid>
+      <guid>http://example.org/posts/justice/2-the-case-of-cannibalism/</guid>
       <description>The Benthamite Utilitarianism  &amp;ldquo;Nature has placed mankind under the governance of two sovereign masters, pain and pleasure.&amp;rdquo; &amp;ndash; Jeremy Bentham
  With a lot of morally intuitive appeal, Bentham&amp;rsquo;s idea is the following, the right thing to do; the just thing to do is to maximize utility.
  &amp;ldquo;The greatest good for the greatest number.&amp;rdquo;
@@ -32,11 +52,11 @@ The Ford Pinto Case It was in the 1970s. The Ford Pinto, a kind of car, had a pr
     </item>
     
     <item>
-      <title>The Moral Side of Murder</title>
-      <link>https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/</link>
+      <title>Note|The Moral Side of Murder</title>
+      <link>http://example.org/posts/justice/1-the-moral-side-of-murder/</link>
       <pubDate>Fri, 12 Feb 2021 11:25:05 +0800</pubDate>
       
-      <guid>https://Zhengjian-L.github.io/posts/justice/1-the-moral-side-of-murder/</guid>
+      <guid>http://example.org/posts/justice/1-the-moral-side-of-murder/</guid>
       <description>Trolley Problem The trolley problem is a thought experiment in ethics about a fictional scenario in which an onlooker has the choice to save 5 people in danger of being hit by a trolley, by diverting the trolley to kill just 1 person.
 What would you choose, to divert it or not?
 Moral Reasoning   Consequentialist 结果主义   Consequentialist locates morality in the consequences of an act.

@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html><head>
-	<meta name="generator" content="Hugo 0.80.0" />
-<title>Zhengjian&#39;s Blog</title>
+<title>Note|Free to Choose</title>
 
 
-
-  
 
 
 <meta charset="utf-8">
@@ -13,25 +10,26 @@
 <meta name="google-site-verification" content="">
 <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
 <meta content="telephone=no" name="format-detection">
-<meta name="description" content="My HomePage Description">
+<meta name="description" content="Should the government enforce safety on actions that only affects the individual who chooses that action?">
 <meta name="renderer" content="webkit">
 <meta name="theme-color" content="#ffffff">
 
 
 
-<meta property="og:title" content="Zhengjian&#39;s Blog" />
-<meta property="og:description" content="My HomePage Description" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://example.org/" />
-<meta property="og:updated_time" content="2021-02-14T14:39:37+08:00" /><meta property="og:site_name" content="My Blog" />
+<meta property="og:title" content="Note|Free to Choose" />
+<meta property="og:description" content="Should the government enforce safety on actions that only affects the individual who chooses that action?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://example.org/posts/justice/5-free-to-choose/" />
+<meta property="article:published_time" content="2021-02-14T14:39:37+08:00" />
+<meta property="article:modified_time" content="2021-02-14T14:39:37+08:00" /><meta property="og:site_name" content="My Blog" />
 
 
 
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Zhengjian&#39;s Blog"/>
-<meta name="twitter:description" content="My HomePage Description"/>
+<meta name="twitter:title" content="Note|Free to Choose"/>
+<meta name="twitter:description" content="Should the government enforce safety on actions that only affects the individual who chooses that action?"/>
 
 
 
@@ -66,7 +64,29 @@
 
 
 
+  
+    <script src="http://example.org//js/toc-collapse.js"></script>
+  
 
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+<script src="/vendor/js/md5.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+  clientID: 'your client id',
+  clientSecret: 'your client secret',
+  repo: 'repo name',
+  owner: 'user',
+  admin: ['user'],
+  id: md5(location.pathname),
+  distractionFreeMode: 'false'
+  });
+  window.onload = function () {
+        gitalk.render('gitalk-container')
+  }
+</script>
 
 
 
@@ -79,7 +99,7 @@
 <body>
     	<div id="app"><div ref="sideContainer" class="side-container">
     
-    <a class="a-block nav-head active" href="http://example.org/">
+    <a class="a-block nav-head false" href="http://example.org/">
     
         <div class="nav-title">
             Zhengjian&#39;s Blog
@@ -97,9 +117,11 @@
             
             
             
+                
             
             
-            <a class="a-block nav-link-item false" href="/posts">
+            
+            <a class="a-block nav-link-item active" href="/posts">
                 Archive
             </a>
             
@@ -145,6 +167,100 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 </div><div ref="extraContainer" class="extra-container">
     
     
+    <div class="toc animated-visibility" :class="{ invisible: scrollY <= 140 }">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#challenge-to-j-s-mills-utilitarianism" onclick="onNavClick(`#challenge-to-j-s-mills-utilitarianism-nav`)" id="challenge-to-j-s-mills-utilitarianism-nav">
+									Challenge to J. S. Mill’s Utilitarianism
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#libertarianism" onclick="onNavClick(`#libertarianism-nav`)" id="libertarianism-nav">
+									Libertarianism
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								<ul class="collapse" data-toggle="collapse">
+							
+						
+						
+							<li>
+								<a href="#the-libertarian-view-of-government" onclick="onNavClick(`#the-libertarian-view-of-government-nav`)" id="the-libertarian-view-of-government-nav">
+									The Libertarian View of Government
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#nozicks-argument-against-taxation" onclick="onNavClick(`#nozicks-argument-against-taxation-nav`)" id="nozicks-argument-against-taxation-nav">
+									Nozick’s Argument Against Taxation
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
+    
     <div class="pagination">
         <a id="globalBackToTop" class="pagination-action animated-visibility" href="#top" :class="{ invisible: scrollY == 0 }">
             <i class="material-icons pagination-action-icon">
@@ -162,8 +278,6 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
         </a>
         
         
-        
-        
     </div>
 </div>
 <div class="single-column-drawer-container" ref="drawer"
@@ -176,9 +290,11 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 
                 
                 
+                    
                 
                 
-                <a class="a-block drawer-menu-item false" href="/posts">
+                
+                <a class="a-block drawer-menu-item active" href="/posts">
                     Archive
                 </a>
                 
@@ -203,6 +319,100 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 </a>
                 
             
+            
+            <div class="toc">
+
+
+	<div class="toc-content">
+	
+		
+		
+		
+		<center>- CATALOG -</center>
+		
+		
+		<ul>
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#challenge-to-j-s-mills-utilitarianism" onclick="onNavClick(`#challenge-to-j-s-mills-utilitarianism-nav`)" id="challenge-to-j-s-mills-utilitarianism-nav">
+									Challenge to J. S. Mill’s Utilitarianism
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#libertarianism" onclick="onNavClick(`#libertarianism-nav`)" id="libertarianism-nav">
+									Libertarianism
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+							
+								<ul class="collapse" data-toggle="collapse">
+							
+						
+						
+							<li>
+								<a href="#the-libertarian-view-of-government" onclick="onNavClick(`#the-libertarian-view-of-government-nav`)" id="the-libertarian-view-of-government-nav">
+									The Libertarian View of Government
+								</a>
+							</li>
+						
+						
+					
+				
+			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#nozicks-argument-against-taxation" onclick="onNavClick(`#nozicks-argument-against-taxation-nav`)" id="nozicks-argument-against-taxation-nav">
+									Nozick’s Argument Against Taxation
+								</a>
+							</li>
+						
+						
+					
+				
+			
+		</ul>
+	</div>
+
+</div>
             
         </div>
     </div>
@@ -245,203 +455,135 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 </div>
 
             <div id="content">
-
 <div ref="streamContainer" class="stream-container">
-    <div class="post-list-container post-list-container-no-background">
-        
+    <div class="post-list-container post-list-container-shadow">
+        <div class="post">
             
-            <a href="http://example.org/posts/justice/5-free-to-choose/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Note|Free to Choose
-                            </div>
-                            <div class="post-item-summary">
-                                Should the government enforce safety on actions that only affects the individual who chooses that action?
-                            </div>
-                            <div class="post-item-meta">
-    2021-02-14
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            
+            
+                
+            
 
-                        </div>
+            <div class="post-head-wrapper"
+                
+                    
+                    
+                    style="background-image: url('https://upload.wikimedia.org/wikipedia/en/1/1d/Robert_nozick.jpg')"
+                    
+                
+            >
+                <div class="post-title">
+                    Note|Free to Choose
+                    
+                    <div class="post-subtitle">
+                        Should the government enforce safety on actions that only affects the individual who chooses that action?
+                    </div>
+                    
+                    <div class="post-meta">
                         
+                        <time itemprop="datePublished">
+                            2021-02-14 14:39
+                        </time>
                         
+
+                        
+                            <i class="material-icons" style="">folder</i>
+                                <a href="/categories/justice-note">Justice Note</a>
+                                &nbsp;
+                        
+
+                        
+                            <i class="material-icons" style="">label</i>
                             
-                            <div class="post-item-image-wrapper">
-                            <div class="post-item-image"
+                                <a href="/tags/justice">Justice</a>
+                                &nbsp;
                             
-                                 style="background-image: url('https://upload.wikimedia.org/wikipedia/en/1/1d/Robert_nozick.jpg')"
+                                <a href="/tags/note">Note</a>
+                                &nbsp;
                             
-                            ></div>
-                            </div>
+                        
                         
                     </div>
                 </div>
+            </div>
             
-        
-            
-            <a href="http://example.org/posts/justice/4-how-to-measure-pleasure/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Note|How to Measure Pleasure
-                            </div>
-                            <div class="post-item-summary">
-                                If more people support dogfighting than opera, should we fund dogfights?
-                            </div>
-                            <div class="post-item-meta">
-    2021-02-14
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            <div class="post-body-wrapper">
+                
+                <div class="post-body" v-pre>
+                
+                    <h1 id="challenge-to-j-s-mills-utilitarianism">Challenge to J. S. Mill&rsquo;s Utilitarianism</h1>
+<ol>
+<li>Why is justice the chief part and the most binding part of our morality?</li>
+<li>Is it the only reason to respect other people&rsquo;s rights that respecting people&rsquo;s rights is a way of making everybody better off in the long run?</li>
+</ol>
+<h1 id="libertarianism">Libertarianism</h1>
+<p><strong>The fundamental idea:</strong> Individuals matter not just as instruments to be used for a larger social purpose or for the sake of maximizing utility, individuals are separate beings with separate lives worthy of respect. We&rsquo;re not available to any use that the society might desire or devise precisely because we are individual separate human beings. We have a fundamental right to liberty, and that means a right to choose freely, to live our lives as we please provided we respect other people&rsquo;s rights to do the same.</p>
+<blockquote>
+<p>&ldquo;Individuals have rights, and there are things no person or group may do to them (without violating their rights).&rdquo;</p>
+<p>&ndash;Robert Nozick</p>
+</blockquote>
+<h2 id="the-libertarian-view-of-government">The Libertarian View of Government</h2>
+<ol>
+<li>
+<p>No paternalist Legislation.</p>
+<p>Laws that protect people from themselves, like seatbelt laws, should not exist. The libertarian thinks what people do should be up to them and it is coercion to forbid their behaviours by laws.</p>
+</li>
+<li>
+<p>No Morals Legislation</p>
+<p>Many laws try to promote the virtue of citizens or try to give expression to the moral values of the society as a whole. Libertarian say that&rsquo;s also a violation of the right to liberty.
+Example: Laws that prevent sexual intimacy between gays and lesbians should not be passed, because nobody else is harmed and nobody&rsquo;s rights are violated, so the government should entirely get out of this business.</p>
+</li>
+<li>
+<p>No Redistribution of Income from Rich to Poor</p>
+<p>The libertarian think redistribution is a kind of coercion. What it amounts to is theft by the state or by the majority, if we&rsquo;re talking about a
+democracy, from people who happen to do very well and earn a lot of money.</p>
+</li>
+</ol>
+<h2 id="nozicks-argument-against-taxation">Nozick&rsquo;s Argument Against Taxation</h2>
+<p>Taxation = taking of earnings</p>
+<p>Taking of earnings = forced labour</p>
+<p>Forced Labour = slavery</p>
+<p>Violates Principle of Self Possession</p>
 
-                        </div>
-                        
-                        
-                            
-                            <div class="post-item-image-wrapper">
-                            <div class="post-item-image"
-                            
-                                 style="background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Stuart_Mill_G_F_Watts.jpg/300px-Stuart_Mill_G_F_Watts.jpg')"
-                            
-                            ></div>
-                            </div>
-                        
-                    </div>
+                    
+                    <HR width="100%" id="EOF">
+		    <p style="color:#777;">Last modified on 2021-02-14</p>
+                    
                 </div>
+            </div>
             
-        
             
-            <a href="http://example.org/posts/justice/3-putting-a-price-tag-on-life/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Note|Putting A Price Tag on Life
-                            </div>
-                            <div class="post-item-summary">
-                                It is possible to aggregate all values to translate them into dollar terms?
-                            </div>
-                            <div class="post-item-meta">
-    2021-02-13
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+            <nav class="post-pagination">
 
-                        </div>
-                        
-                        
-                            
-                            <div class="post-item-image-wrapper">
-                            <div class="post-item-image"
-                            
-                                 style="background-image: url('https://i.pinimg.com/564x/a0/0e/67/a00e67716315c23345b0dac51409548c.jpg')"
-                            
-                            ></div>
-                            </div>
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="http://example.org/posts/justice/2-the-case-of-cannibalism/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Note|The Case of Cannibalism
-                            </div>
-                            <div class="post-item-summary">
-                                The lifeboat case in 1984
-                            </div>
-                            <div class="post-item-meta">
-    2021-02-13
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
+                
+                <a class="newer-posts">
+			Next<br>No newer posts.
+                </a>
+                
+                
+                
+                <a class="older-posts" href="http://example.org/posts/justice/4-how-to-measure-pleasure/">
+			Previous<br>Note|How to Measure Pleasure
+                </a>
+                
+            </nav>
+            <div class="post-comment-wrapper">
+                
 
-                        </div>
-                        
-                        
-                            
-                            <div class="post-item-image-wrapper">
-                            <div class="post-item-image"
-                            
-                                 style="background-image: url('https://www.the-tls.co.uk/s3/tls/uploads/2020/06/Bentham.jpg')"
-                            
-                            ></div>
-                            </div>
-                        
-                    </div>
-                </div>
-            
-        
-            
-            <a href="http://example.org/posts/justice/1-the-moral-side-of-murder/" class="a-block">
-                <div class="post-item-wrapper">
-                    <div class="post-item post-item-no-divider">
-                        <div class="post-item-info-wrapper">
-                            <div class="post-item-title">
-                                Note|The Moral Side of Murder
-                            </div>
-                            <div class="post-item-summary">
-                                What would you choose when you face a trolly problem?
-                            </div>
-                            <div class="post-item-meta">
-    2021-02-12
-    &emsp;
-    
-    
-    
-    &emsp;
-    
-</div>
 
-                        </div>
-                        
-                        
-                            
-                            <div class="post-item-image-wrapper">
-                            <div class="post-item-image"
-                            
-                                 style="background-image: url('https://miro.medium.com/max/871/1*Z6pTgsqBo6ydjuDZyk41DA.jpeg')"
-                            
-                            ></div>
-                            </div>
-                        
-                    </div>
-                </div>
-            
-        
-        </a>
+<div id="gitalk-container"></div>
+
+
+
+
+
+
+            </div>
+        </div>
     </div>
 </div>
 
-            </div>
-
-
-<div id="single-column-footer">
+            </div><div id="single-column-footer">
 Hugo Theme <a href="https://github.com/amazingrise/hugo-theme-diary">Diary</a> by <a href="https://amazingrise.net">Rise</a>
 <br>
 Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopener">Makito</a>'s <a href="https://github.com/SumiMakito/hexo-theme-journal/" target="_blank" rel="noreferrer noopener">Journal.</a> <br>
